@@ -63,13 +63,13 @@ hr.q-divider{
 }
 
 .student-workspace button{
-  padding: 13px;
+  padding: 10px;
   font-size: 12px;
   cursor: pointer;
   margin: 15px auto;
-  background: #f1c40f;
+  background: #79ba10;
   border: 1px solid #333;
-  font-weight: 700;
+  font-weight: 600;
 }
 .student-workspace button:hover{
   background: #f39c12;
